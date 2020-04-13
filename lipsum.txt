@@ -1,1 +1,0 @@
-In SQL Server, you can create an autonumber field by using sequences. A sequence is an object in SQL Server (Transact-SQL) that is used to generate a number sequence. This can be useful when you need to create a unique number to act as a primary key.
